@@ -21,7 +21,7 @@
 ### Section C: Chrome Extensions
 - **Project 13: Style Spy**  
   🔗 [style-spy-extension](https://github.com/IshaniKarmakar30/style-spy-extension)
-  - **Project 14: Job Clipper**  
+- **Project 14: Job Clipper**  
   🔗 [Tab_Gobline](https://github.com/IshaniKarmakar30/Tab_Gobline)
 
 ### Section D: Video, Skills & Design
